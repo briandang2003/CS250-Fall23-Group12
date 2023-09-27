@@ -42,5 +42,6 @@ __B.D____
 Please Initial your name below to indicate your agreement with the terms and commitment outlined in this group contract:
 
 - [B.D] [Brian Dang] [09/26/2023]
+- [M.M] [Matthew McGuire] [09/26/2023]
 
 ---
