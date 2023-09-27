@@ -38,10 +38,12 @@ Matthew Mcguire, E.J Gordon, Brian Dang
 *Initial Below to state the signer has read Group Contract*
 
 __B.D____
+E.J.
 
 Please Initial your name below to indicate your agreement with the terms and commitment outlined in this group contract:
 
 - [B.D] [Brian Dang] [09/26/2023]
 - [M.M] [Matthew McGuire] [09/26/2023]
+- [E.J.] [E.J. Gordon] [9/26/23]
 
 ---
